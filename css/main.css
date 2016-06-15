@@ -301,10 +301,18 @@ header .header-content .header-content-inner p {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 22px;
     }
+
+    .contact-nav {
+    padding-top: 50px;
+    }
 }
 
-.contact-links {
-    padding-top: 200px;
+.contact-nav {
+    padding-top: 5px;
+}
+
+.contact-links  {
+    padding: 20px;
 }
 
 .text-primary {
@@ -459,3 +467,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
